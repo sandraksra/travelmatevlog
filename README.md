@@ -1,7 +1,7 @@
 # travelmatevlog
 
 
-frendend=Django version=4.123
+frontend=Django version=4.123
 
 backend=postgresql
 
